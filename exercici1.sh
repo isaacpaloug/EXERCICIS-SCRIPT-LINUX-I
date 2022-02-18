@@ -5,4 +5,4 @@ echo Introduce tu primer apellido
 read primer
 echo Introduce tu segundo apellido
 read segundo
-echo Tu nombre es $nombre $primer $segundo
+echo El teu nom complet $nombre $primer $segundo
